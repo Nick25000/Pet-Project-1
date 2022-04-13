@@ -4,7 +4,7 @@
 <hr/>
 <h4><b><i>Цель соревнования:</i></b></h4 ><i>Предсказать вероятность результатов футбольных матчей: multiclass target (home, away,draw)</i>
 <h4><b><i>Используемые модели:</i></b></h4> <i> Baseline - LogisticRegression, XGBClassifier, LGBMClassifier, CatBoostClassifier.<br>
-    The best result was obtained using the Catboost with Optuna.</i>
+    Лучший результат был получен при помощи Catboost с настройкой гиперпараметров</i>
     
 <h4><b><i>Метрики качества:</i></b></h4><i>multiclass log_loss</i>
 
