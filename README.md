@@ -1,6 +1,6 @@
 ## Pet-Project-1 by Nikolay Luzhynski
 <h4><i>Данный Pet-Project оформлен в качестве дополнения к резюме.</h4></i>
-<h4><i>Благодаря данному кода удалось занять 1-ое место на соревновании Kaggle по предсказанию исходов футбольных матчей.</h4></i>
+<h4><i>Благодаря данному кода удалось занять 1-ое место на соревновании <a href = "https://www.kaggle.com/competitions/football-match-probability-prediction/overview" target="_blank">Kaggle<a> по предсказанию исходов футбольных матчей.</h4></i>
 <hr/>
 <h4><b><i>Цель соревнования:</i></b></h4 ><i>Предсказать вероятность результатов футбольных матчей: multiclass target (home, away,draw)</i>
 <h4><b><i>Используемые модели:</i></b></h4> <i> Baseline - LogisticRegression, XGBClassifier, LGBMClassifier, CatBoostClassifier.<br>
