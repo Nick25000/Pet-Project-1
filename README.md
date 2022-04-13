@@ -3,7 +3,7 @@
 <h4><i>Благодаря данному кода удалось занять 1-ое место на соревновании Kaggle по предсказанию исходов футбольных матчей.</h4></i>
 <hr/>
 <h4><b><i>Цель соревнования</i></b></h4 ><i>Предсказать вероятность результатов футбольных матчей: multiclass target (home, away,draw)</i>
-<h4><b><i>Используемые модели:</i></b></h4> <i> Baseline - LogisticRegression, XGBClassifier, LGBMClassifier, CatBoostClassifier. 
+<h4><b><i>Используемые модели:</i></b></h4> <i> Baseline - LogisticRegression, XGBClassifier, LGBMClassifier, CatBoostClassifier.<br>
     The best result was obtained using the Catboost with Optuna.</i>
 <h4><i>Прикрепленные файлы:</h4></i>
 <ul>
