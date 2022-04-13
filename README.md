@@ -18,5 +18,5 @@
   <li><b>final_submissions</b> - в папке лежат главные сабмиты, которые в последствии были отправлены на Kaggle</li>
   <li><b>Descriptions_new_columns.md</b> - в файле добавлены описания новых признаков</li>
 </ul>
-
+<hr/>
 <h5><i>This Pet-Project was made by Nikolay Luzhynski and updoaded to github on 13 April, 2022<h5><i>
